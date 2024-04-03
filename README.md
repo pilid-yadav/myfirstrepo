@@ -1,2 +1,3 @@
 # myfirstrepo
-this is my first repositry on git/github
+This Is My First Repositry On git/github
+
